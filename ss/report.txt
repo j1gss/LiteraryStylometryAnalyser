@@ -1,0 +1,5 @@
+Total Word Count         : 46084
+MATTR (Lexical Richness) : 0.5110
+Avg Sentence Length      : 19.75 words/sentence
+Flesch-Kincaid Grade     : 8.97
+Top Words (Frequencies)  : {her=519, with=505, his=438, you=437, she=364}

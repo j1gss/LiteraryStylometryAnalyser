@@ -105,7 +105,7 @@ whose length you already know.
 
 ## Screenshots
 
-![Menu]([https://github.com/j1gss/LiteraryStylometryAnalyser/blob/master/ss/Menu.png])
-![Choice 1]([https://github.com/j1gss/LiteraryStylometryAnalyser/blob/master/ss/Choice%201.png])
-![Choice 2-Same Author]([https://github.com/j1gss/LiteraryStylometryAnalyser/blob/master/ss/Choice%202-Same%20Author.png])
-![Choice 2-Different Authors]([https://github.com/j1gss/LiteraryStylometryAnalyser/blob/master/ss/Choice%202-Different%20Authors.png])
+![Menu](https://github.com/j1gss/LiteraryStylometryAnalyser/blob/master/ss/Menu.png)
+![Choice1](https://github.com/j1gss/LiteraryStylometryAnalyser/blob/master/ss/Choice%201.png)
+![Choice2-SameAuthor](https://github.com/j1gss/LiteraryStylometryAnalyser/blob/master/ss/Choice%202-Same%20Author.png)
+![Choice2-DifferentAuthors](https://github.com/j1gss/LiteraryStylometryAnalyser/blob/master/ss/Choice%202-Different%20Authors.png)
